@@ -3,9 +3,7 @@
 <samp>
 I'm a developer and maker building micro SaaS products for fun and profit.
 
-You can read about everything I'm working on [at my website](https://microlific.com).
-
-You can also find me on [Twitter](https://twitter.com/gxespino).
+You can find me on [Twitter](https://twitter.com/gxespino).
 
 Cheers!
 <samp>
